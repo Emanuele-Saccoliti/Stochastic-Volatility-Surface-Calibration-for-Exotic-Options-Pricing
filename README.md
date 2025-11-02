@@ -1,4 +1,4 @@
-# Volatility-Surface-Calibration-for-Exotic-Options-Pricing
+# Repository Description
 
 - This repository provides a stochastic volatility pricing engine based on Heston model calibration to vanilla option market quotes across a wide range of strikes and maturities, ensuring market-consistent volatility smiles and term structures.
 
